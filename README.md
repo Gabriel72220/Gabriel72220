@@ -1,5 +1,6 @@
 
-<p align="center">Olá, meu nome é Gabriel e sou um desenvolvedor back-end. Gosto de trabalhar em projetos de automação e sistemas de gerenciamento, incluindo PDVs e outras soluções. Estou sempre aprendendo e buscando maneiras de melhorar minhas habilidades para oferecer soluções mais eficazes.</p>&nbsp;
+
+<h1 align="center">Olá, meu nome é Gabriel e sou um desenvolvedor back-end. Gosto de trabalhar em projetos de automação e sistemas de gerenciamento, incluindo PDVs e outras soluções. Estou sempre aprendendo e buscando maneiras de melhorar minhas habilidades para oferecer soluções mais eficazes.</h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
@@ -17,9 +18,12 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://gabrielrf.netlify.app/assets/avatar-40940e55.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Bonequinho">
 
 #### Estudando no momento:
 
