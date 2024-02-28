@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá, meu nome é Gabriel sou um desenvolvedor back-end. Gosto de trabalhar em projetos de automação e sistemas de gerenciamento, incluindo PDVs e outras soluções. Estou sempre aprendendo e buscando maneiras de melhorar minhas habilidades para oferecer soluções mais eficazes.</h1>&nbsp;
+<h1 align="center">Olá, meu nome é Gabriel sou um desenvolvedor back-end. Já trabalhei em projetos de automações, sistemas de gerenciamento e sistemas de vendas. Estou sempre aprendendo e buscando maneiras de melhorar minhas habilidades para oferecer soluções mais eficazes.</h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=gabriel72220&show_icons=true&theme=transparent" />
