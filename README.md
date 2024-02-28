@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=gabriel72220&show_icons=true&theme=transparent" />
-<img width=40% align="center" src="https://github-readme-stats-alpha-two-54.vercel.app//api/top-langs/?username=gabriel72220&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-alpha-two-54.vercel.app//api/top-langs/?username=gabriel72220&show_icons=true&theme=transparent" />
  </div>
  
  &nbsp;
