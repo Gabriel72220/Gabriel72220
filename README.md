@@ -25,24 +25,25 @@
 
 <img src="https://gabrielrf.netlify.app/assets/avatar-40940e55.png" min-width="150px" max-width="100px" width="172px" align="right" alt="Bonequinho">
 
+#### Banco de dados:
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/mysql-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-4EA94B?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+
 #### Estudando no momento:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-
-#### Banco de dados:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/mysql-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-4EA94B?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 ## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/gabriellrf1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.gabrielrocha72220@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:gabrielrocha72220@gmail.com" onclick="if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){window.location='googlegmail:///co?to=gabrielrocha72220@gmail.com';return false;}"> 
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 <a href="https://www.linkedin.com/in/gabrielrf1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://www.upwork.com/freelancers/~01d29820eb9f9d4cb1" target="_blank"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
