@@ -23,7 +23,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://gabrielrf.netlify.app/assets/avatar-40940e55.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Bonequinho">
+<img src="https://gabrielrf.netlify.app/assets/avatar-40940e55.png" min-width="150px" max-width="100px" width="172px" align="right" alt="Bonequinho">
 
 #### Estudando no momento:
 
