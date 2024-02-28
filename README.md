@@ -3,7 +3,7 @@
 <h1 align="center">Olá, meu nome é Gabriel e sou um desenvolvedor back-end. Gosto de trabalhar em projetos de automação e sistemas de gerenciamento, incluindo PDVs e outras soluções. Estou sempre aprendendo e buscando maneiras de melhorar minhas habilidades para oferecer soluções mais eficazes.</h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gabriel72220&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-alpha-two-54.vercel.app//api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
