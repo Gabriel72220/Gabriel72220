@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá, meu nome é Gabriel sou um desenvolvedor back-end. Já trabalhei em projetos de automações, sistemas de gerenciamento e sistemas de vendas. Estou sempre aprendendo e buscando maneiras de melhorar minhas habilidades para oferecer soluções mais eficazes.</h1>&nbsp;
+<h1 align="center">Hello, my name is Gabriel, and I am a software developer. I have experience in developing reliable systems and applications, focusing on solving practical problems and continuously improving my skills to meet new challenges</h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=gabriel72220&show_icons=true&theme=transparent" />
