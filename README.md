@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello, my name is Gabriel, and I am a software developer. I have experience in developing reliable systems and applications, focusing on solving practical problems and continuously improving my skills to meet new challenges</h1>&nbsp;
+<h1 align="center">Hello, my name is Gabriel. I’m a software developer, and I've been passionate about programming since I was 16. I completed a technical course in Computer Science and am currently studying Systems Analysis and Development. Throughout my journey, I’ve always focused on applying my knowledge to practical projects, creating efficient solutions, and continuously improving my skills</h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=gabriel72220&show_icons=true&theme=transparent" />
